@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    background-color: rgb(83, 81, 190);
+    color: white;
+    font: 80px Impact;
+    text-align: center;
+    text-shadow: rgb(128, 142, 219) 5px 3px 2px;
+    border: double rgb(3, 8, 46);
+    letter-spacing: 30px;
+    width: 100%;
+}
